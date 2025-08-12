@@ -9,12 +9,10 @@
   <p>
     Check out my Portfolio:
     <p style="color:white;">
-    Loading...
+    Coming soon...
   </p>
     <!--<a href="https:asadportfolio">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>-->
   </p>
 </div>
-
----
